@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1081066819755",
+    "firebase_url": "https://testanimenx.firebaseio.com",
+    "project_id": "testanimenx",
+    "storage_bucket": "testanimenx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081066819755:android:72c5e8d6450a187a4427ee",
+        "android_client_info": {
+          "package_name": "com.anuj.internship.doctor_client"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081066819755-9u9osbr47rrm4rac5e67u3vgj1p3iv03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC8gA4CDukWsSIE7r4555jy8QG-R2gnLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1081066819755-9u9osbr47rrm4rac5e67u3vgj1p3iv03.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
